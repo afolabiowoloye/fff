@@ -42,8 +42,8 @@ st.set_page_config(page_title = page_title, page_icon = page_icon, layout = layo
 # Title of the app
 #st.title("pIC50 Prediction App")
 # Logo image
-logo_url = "https://github.com/afolabiowoloye/fff/blob/main/logo.jpg"
-st.image(logo_url, use_column_width=True)
+#logo_url = "https://github.com/afolabiowoloye/fff/blob/main/logo.jpg"
+#st.image(logo_url, use_column_width=True)
 
 #image = Image.open('logo.jpg')
 #st.image(image, use_column_width=True)
